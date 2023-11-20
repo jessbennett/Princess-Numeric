@@ -4,6 +4,7 @@ R.Memory.int
 R.Memory.DOG
 R.Robinhood.int
 R.Name
+R.Game.int
 
 play => {MongoDB}
 play => {Mongoose}
