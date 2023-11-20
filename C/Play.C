@@ -1,6 +1,9 @@
 R.#Windows
+R.#
 R.Memory.int
+R.Memory.DOG
 R.Robinhood.int
+
 
 play => {MongoDB}
 play => {Mongoose}
