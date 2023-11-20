@@ -19,5 +19,6 @@ play => {#TIMESTAMP_GAME_START}
 play => {#TIMESTAMP_GAME_END}
 play => {#Sunny}
 
+play => {MongoDB.Nintendo}
 
 
