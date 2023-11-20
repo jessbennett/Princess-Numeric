@@ -1,4 +1,5 @@
 R.#Windows
+R.Military
 R.#
 R.Memory.int
 R.Memory.DOG
